@@ -8,7 +8,7 @@ public class GitTest {
         System.out.println("master text!");
         System.out.println("hot-fix text!");
         System.out.println("push text!");
-        System.out.println("PULL text!");
+        System.out.println("gitee text!");
 
 
     }
